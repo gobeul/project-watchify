@@ -80,7 +80,9 @@ OTT 구독 기간과 사용자의 취향 등을 반영하여 컨텐츠를 추천
 사용자 기반 협업 필터링을 사용하여 개인별로 컨텐츠를 추천합니다. 사용자가 시청하거나 별점을 매기거나, 혹은 위시리스트에 추가한 컨텐츠를 기반으로 컨텐츠를 추천합니다.
 <br>
 
-<img src="https://github.com/gobeul/project-watchify/assets/109266805/057b2780-2503-4b1e-94dc-bf93c7f4cb11"  width="600" height="400"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/057b2780-2503-4b1e-94dc-bf93c7f4cb11"  width="200" height="400"/>
+
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/422587aa-cf85-41d2-8485-e3beeea26f22"  width="200" height="400"/>
 
 ### 1. 추천 알고리즘
 1. DB 조회
@@ -106,7 +108,7 @@ OTT 구독 기간과 사용자의 취향 등을 반영하여 컨텐츠를 추천
 
 <img src="https://github.com/gobeul/project-watchify/assets/109266805/e8b66349-0d2e-46ea-86bd-6e762d48b65f"  width="200" height="400"/>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/31c657d08a4960f463a26eb0c85dbc31/검색결과.gif"  width="200" height="400"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/c6984cd6-f8f2-40de-b0c7-cf173ee874b6"  width="200" height="400"/>
 
 ## 간편 로그인
 SNS 로그인으로 사용자가 간편하게 서비스에 접근할 수 있도록 합니다. 카카오톡과 구글 로그인을 지원합니다.
@@ -185,7 +187,7 @@ Django rest_framework의 APIView를 사용하여 rest api를 구성하였습니�
 ![ERD](https://github.com/gobeul/project-watchify/assets/109266805/51f77563-a152-4920-a232-f31e7c141ba6)
 
 ### 시스템 아키텍처
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/637b7a08a27e2e7818c5409761eef5a2/아키텍쳐.jpg"  width="1000" height="500"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/33001cd3-ebe2-444f-95bc-b7d4825422ae"  width="1000" height="500"/>
 
 ### Figma
 
