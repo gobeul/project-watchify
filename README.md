@@ -1,5 +1,5 @@
 # Watchify
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/72a0fbfe7369455b93797b281b3728da/KakaoTalk_20230519_104227916.png"  width="1000" height="600"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/974eafb9-44d1-4b60-ab2c-be71bb00b458"  width="1000" height="600"/>
 
 다양한 컨텐츠를 스케줄링 받아 OTT를 보다 알차게 사용해보세요!
 
@@ -44,21 +44,21 @@ OTT 구독 기간과 사용자의 취향 등을 반영하여 컨텐츠를 추천
 - 깔끔한 UI를 위해 black과 orenge 컬러를 사용하였습니다.
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/dfcccaa8dfa8d4cbe8cfe7474fb5c895/디자인1.gif"  width="200" height="400"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/12045cda-5b57-4cbe-9d3e-86c11725289b"  width="200" height="400"/>
 
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/613ed2d10d60d7c062a78b20d52f6371/디자인2.gif"  width="200" height="400"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/4b60f6fc-ef73-4116-ae60-889a3db08a79"  width="200" height="400"/>
 
 # 서비스 소개
 ## 컨텐츠 스케줄링
 사용자가 시청하기 원하는 컨텐츠를 사용자의 시청 패턴에 맞도록, OTT 구독 정보에 맞춰 스케줄링합니다.
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/3f59c9802097e08844328803dd3ae52b/스케쥴.gif"  width="200" height="400"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/78c4fafd-bc00-4b24-b8bc-1e4d5b160e9a"  width="200" height="400"/>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/f38304f83f10edeb6fe8105955e98d48/스케쥴목록.gif"  width="200" height="400"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/492e5b15-2bce-4bff-92b5-8a7559bdf99e"  width="200" height="400"/>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/f2bcbb8816397c775deab1a528185d42/스케쥴결과.gif"  width="200" height="400"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/31c612ec-ec2f-4d0c-948f-a3b1e16fc518"  width="200" height="400"/>
 
 
 ### 1. 시청 패턴 지정
@@ -80,7 +80,7 @@ OTT 구독 기간과 사용자의 취향 등을 반영하여 컨텐츠를 추천
 사용자 기반 협업 필터링을 사용하여 개인별로 컨텐츠를 추천합니다. 사용자가 시청하거나 별점을 매기거나, 혹은 위시리스트에 추가한 컨텐츠를 기반으로 컨텐츠를 추천합니다.
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/55142cc8c87953b74b1c4d85ddf3ce21/컨텐츠추천.gif"  width="600" height="400"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/057b2780-2503-4b1e-94dc-bf93c7f4cb11"  width="600" height="400"/>
 
 ### 1. 추천 알고리즘
 1. DB 조회
@@ -104,7 +104,7 @@ OTT 구독 기간과 사용자의 취향 등을 반영하여 컨텐츠를 추천
 실시간 검색 기능을 통하여 사용자가 검색을 더 빠르고 편하게 할 수 있도록 도움을 주며 찜 등을 통하여 이후 스케쥴링 알고리즘 등에 포함되어 들어가게 하는 기능
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/27d88c5e69809a64735f200220005f87/검색_기능.gif"  width="200" height="400"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/e8b66349-0d2e-46ea-86bd-6e762d48b65f"  width="200" height="400"/>
 
 <img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/31c657d08a4960f463a26eb0c85dbc31/검색결과.gif"  width="200" height="400"/>
 
@@ -112,23 +112,23 @@ OTT 구독 기간과 사용자의 취향 등을 반영하여 컨텐츠를 추천
 SNS 로그인으로 사용자가 간편하게 서비스에 접근할 수 있도록 합니다. 카카오톡과 구글 로그인을 지원합니다.
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/d3d03307050db61d25436ff1c7b651e4/Kakao_.gif"  width="200" height="400"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/f914db71-330f-4d32-9c7b-413fb4f543d7"  width="200" height="400"/>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/4e0128544fb0c8bb756831a6ba20c294/Google.gif"  width="200" height="400"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/eb3c0182-4a72-41c7-ab73-3ed3e8e9e3a2"  width="200" height="400"/>
 
 ## 알람 및 공유
 ### 알람
 프로필 페이지의 설정 탭에서 알람 on/off 기능으로 알람을 설정할 수 있습니다. 알람을 on으로 설정한다면, 매일 정해진 시간에 오늘의 시청 스케줄을 알림합니다.
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/d8d7b8adde9ee242b243f1ae5250e266/마이페이지.gif"  width="200" height="400"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/8be7855c-46cb-49b2-8dad-22ce652a0b4f"  width="200" height="400"/>
 
 
 ### 공유
 컨텐츠 시청 스케줄을 받은 후, 스케줄 페이지에서 카카오톡 공유하기를 통해 공유할 수 있습니다.
 <br>
 
-<img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/52f6c8dabc2e03134a8ed442148f3621/공유_기능.gif"  width="200" height="400"/>
+<img src="https://github.com/gobeul/project-watchify/assets/109266805/eb72fde5-a9be-4778-a929-377dd57eae0b"  width="200" height="400"/>
 
 
 <br>
@@ -182,13 +182,13 @@ Django rest_framework의 APIView를 사용하여 rest api를 구성하였습니�
 # 프로젝트 산출물
 ### 데이터베이스
    
-![ERD](https://lab.ssafy.com/s08-final/S08P31A207/-/raw/main/OUTPUT/ERD.png)
+![ERD](https://github.com/gobeul/project-watchify/assets/109266805/51f77563-a152-4920-a232-f31e7c141ba6)
 
 ### 시스템 아키텍처
 <img src="https://lab.ssafy.com/s08-final/S08P31A207/uploads/637b7a08a27e2e7818c5409761eef5a2/아키텍쳐.jpg"  width="1000" height="500"/>
 
 ### Figma
 
-![Figma1](https://lab.ssafy.com/s08-final/S08P31A207/-/raw/main/OUTPUT/readme/Figma1.png)
+![Figma1](https://github.com/gobeul/project-watchify/assets/109266805/d33c2235-cdaf-44ea-ab55-7213238bbfb5)
 
-![Figma2](https://lab.ssafy.com/s08-final/S08P31A207/-/raw/main/OUTPUT/readme/Figma2.png)
+![Figma2](https://github.com/gobeul/project-watchify/assets/109266805/bede19fb-0c5a-4d2d-90a3-dcae593f87b9)
